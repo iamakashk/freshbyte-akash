@@ -2,6 +2,6 @@
 this is fisrt github repo
 
 Today lecturs is all about git assignment.
-still we are stuck at git.
+today sir has added new lecture of AWS is about S3 
 
 
