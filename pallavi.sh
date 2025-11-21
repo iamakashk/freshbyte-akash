@@ -7,3 +7,5 @@ name_variable="Rajkumar Rao"
 
 echo "value of name_variable is:- $name_variable"
 
+echo "hello"
+
